@@ -1,0 +1,28 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "O GraphQL é uma linguagem de query que tem como objetivo enxutar e facilitar a consulta e manipulação dos dados de uma API, ele também tras um codigo limpo em sua estruturação visto que a forma como se estrutura uma API em GraphQL é construida em schemas organizando melhor a sua criação e facilitando a manutenção.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebertolini/GraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebertolini/GraphQL/issues"
+  },
+  "homepage": "https://github.com/lebertolini/GraphQL#readme",
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "dotenv": "^10.0.0",
+    "graphql": "^16.1.0",
+    "mongoose": "^6.1.1",
+    "nodemon": "^2.0.15"
+  }
+}
