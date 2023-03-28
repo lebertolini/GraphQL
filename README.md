@@ -1,4 +1,4 @@
-# GraphQL
+# Exploring the Benefits of GraphQL: A Practical Guide
 
 GraphQL is a query language that aims to streamline and facilitate the query and manipulation of data from an API so that it can be consumed in a more practical way, it also brings a clean code in its structure since the API structure in GraphQL is built in schemas, better organizing its creation and facilitating maintenance.
 
